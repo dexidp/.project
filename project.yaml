@@ -23,7 +23,7 @@ repositories:
 
 website: "https://dexidp.io/"
 
-artwork: "https://landscape.cncf.io/logos/dex.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/dex"
 
 adopters:
   path: "https://github.com/dexidp/dex/blob/master/ADOPTERS.md"
